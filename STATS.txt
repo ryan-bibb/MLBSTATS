@@ -1,0 +1,2 @@
+lastName, firstName, playerID, year, hits, singles, doubles, triples, homeRuns, AVG, SLG, OBP, OPS, stolenBases,
+lastName, firstName, playerID, year, hits, singles, doubles, triples, homeRuns, AVG, SLG, OBP, OPS, stolenBases,
